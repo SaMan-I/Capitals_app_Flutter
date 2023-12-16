@@ -1,5 +1,3 @@
-import 'package:capitals_game/mock/africa_test.dart';
-import 'package:capitals_game/mock/asia_test.dart';
 import 'package:capitals_game/models/question.dart';
 
 const test1 = Test(
